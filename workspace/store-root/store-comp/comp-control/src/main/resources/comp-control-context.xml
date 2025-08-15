@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="EUC-KR"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
    xmlns:context="http://www.springframework.org/schema/context"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -11,7 +11,7 @@
                   http://www.springmodules.org/validation/bean/validator.xsd">
 
    <!--
-   // 서비스 빈     
+   // �꽌鍮꾩뒪 鍮�     
    <bean class="com.store.comp.control.service.SchedulerService"/>
    <bean class="com.store.comp.control.service.CacheService"/>
    -->

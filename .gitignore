@@ -1,0 +1,26 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+logs/
+*.log
+*.tmp
+
+# Build tools
+dist/
+build/
+
+# Node (프론트 서브모듈 있을 때만)
+node_modules/
+npm-debug.log*
+yarn-error.log*
